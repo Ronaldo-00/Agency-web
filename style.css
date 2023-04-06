@@ -386,6 +386,9 @@ header{
     .plans{
         display: block;
     }
+    .plan-detail{
+        margin-left:0px;
+    }
     .plan-detail img{
         width: 50%;
     }
